@@ -34,5 +34,12 @@ Simon Checkin by 1119
 
 test 2021/11/12
 update by tina
+
+
+
+
+update func1 by Amy, 2021/11/19
+
 update by simon
+
 
